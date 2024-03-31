@@ -1,8 +1,7 @@
 #! usr/bin/env node
 import inquirer from "inquirer"
 
-let Todos = [];
-// let condition = true;
+let Todos : string[] = [];
 console.log(`\t"Welcome to Todo List"`);
 
 
